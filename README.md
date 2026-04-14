@@ -7,23 +7,23 @@ I inspected the repository and used the notebooks present to draft this README. 
 ## Notebooks (contents of this repo)
 - Agent_Architectures.ipynb
   - Explores different agent design patterns and architectures: single-agent vs multi-agent setups, internal components (planner, memory, tool use), and example diagrams and code snippets.
-  - Link: https://github.com/itssraj/ai-agents-using-ADK/blob/main/Agent_Architectures.ipynb
+  - Link: https://github.com/rajkumar-sankarachinthamani/ai-agents-using-ADK/blob/main/Agent_Architectures.ipynb
 
 - Agent_Tools.ipynb
   - Demonstrates integration of external tools and plugins that agents can call (APIs, local utilities, chain-of-thought tools), plus examples of safe tool invocation and tool response handling.
-  - Link: https://github.com/itssraj/ai-agents-using-ADK/blob/main/Agent_Tools.ipynb
+  - Link: https://github.com/rajkumar-sankarachinthamani/ai-agents-using-ADK/blob/main/Agent_Tools.ipynb
 
 - Agent_Sessions.ipynb
   - Shows session management patterns for agents: conversational state, memory management, session lifecycles, and best practices for storing and resuming context.
-  - Link: https://github.com/itssraj/ai-agents-using-ADK/blob/main/Agent_Sessions.ipynb
+  - Link: https://github.com/rajkumar-sankarachinthamani/ai-agents-using-ADK/blob/main/Agent_Sessions.ipynb
 
 - Agent_Observability.ipynb
   - Demonstrates how to instrument and observe agent behavior: logging, tracing, metrics, dashboards, and examples of recording conversations, actions, and tool calls for debugging and monitoring.
-  - Link: https://github.com/itssraj/ai-agents-using-ADK/blob/main/Agent_Observability.ipynb
+  - Link: https://github.com/rajkumar-sankarachinthamani/ai-agents-using-ADK/blob/main/Agent_Observability.ipynb
     
 - Agent_Deployment.ipynb
   - Covers deployment patterns for agents: containerization, exposing agent endpoints, scaling considerations, and sample deployment workflows (local and cloud).
-  - Link: https://github.com/itssraj/ai-agents-using-ADK/blob/main/Agent_Deployment.ipynb
+  - Link: https://github.com/rajkumar-sankarachinthamani/ai-agents-using-ADK/blob/main/Agent_Deployment.ipynb
 
 
 
@@ -32,7 +32,7 @@ I inspected the repository and used the notebooks present to draft this README. 
 These notebooks are intended to be run interactively. Recommended steps to get started locally:
 
 1. Clone the repository
-   - git clone https://github.com/itssraj/ai-agents-using-ADK.git
+   - git clone https://github.com/rajkumar-sankarachinthamani/ai-agents-using-ADK.git
    - cd ai-agents-using-ADK
 
 2. Create and activate a Python virtual environment
